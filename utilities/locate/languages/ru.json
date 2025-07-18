@@ -1,0 +1,23 @@
+{
+  "moderation.clear.invalid_amount": "Укажите число от 1 до {max}.",
+  "moderation.clear.success": "Удалено {count} сообщений.",
+  "moderation.clear.error_permissions": "Нужны права `manage_messages` для этой команды.",
+  "test.message": "Привет, {user}! Это тест.",
+  "welcome.message": "Добро пожаловать, {user}! Ознакомься с правилами в #правила.",
+  "error.missing_perms": "У вас недостаточно прав для этой команды.",
+  "error.bot_missing_perms": "У бота недостаточно прав для выполнения этой команды.",
+  "error.cooldown": "Пожалуйста, подождите {retry_after} секунд перед повторным использованием команды.",
+  "error.generic": "Произошла ошибка: {error}",
+  "ticket.welcome_title": "Тикет от {user}",
+  "ticket.welcome_description": "Опишите вашу проблему. Поддержка скоро свяжется с вами.",
+  "ticket.created_success": "Тикет создан: {channel}",
+  "ticket.created_log_title": "Создан новый тикет",
+  "ticket.created_log_desc": "Пользователь {user} создал тикет {channel}",
+  "ticket.not_ticket_channel": "Эта команда работает только в тикетах",
+  "ticket.close_confirm_title": "Закрытие тикета",
+  "ticket.close_confirm_desc": "Вы уверены, что хотите закрыть этот тикет?",
+  "ticket.confirm_button": "Подтвердить",
+  "ticket.cancel_button": "Отмена",
+  "ticket.closed_log_title": "Тикет закрыт",
+  "ticket.closed_log_desc": "Тикет #{channel} был закрыт"
+}
